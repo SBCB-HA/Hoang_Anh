@@ -1,14 +1,32 @@
-# Welcome to your Lovable project
+# Chic Spaces Showcase
+
+Đề bài: Thiết kế landing page cho studio kiến trúc & nội thất cao cấp.
+Giao diện bao gồm các đầu mục:
+
+Hero / Giới thiệu nổi bật
+Về studio
+Dịch vụ
+Dự án tiêu biểu
+Quy trình làm việc
+Đội ngũ
+Khách hàng / Đối tác
+Testimonials
+CTA đăng ký tư vấn
+Footer / Liên hệ
+
+làm cho tôi bằng ngôn ngữ html + js là chủ yếu
+tôi muốn giao diện đẹp là chủ yếu
+Nội dung b cứ lấy tự nhiên
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/a72ad372-57d5-49f1-bc43-e3a602714ddc).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +38,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
