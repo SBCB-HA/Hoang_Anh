@@ -1,24 +1,4 @@
-# Chic Spaces Showcase
 
-Đề bài: Thiết kế landing page cho studio kiến trúc & nội thất cao cấp.
-Giao diện bao gồm các đầu mục:
-
-Hero / Giới thiệu nổi bật
-Về studio
-Dịch vụ
-Dự án tiêu biểu
-Quy trình làm việc
-Đội ngũ
-Khách hàng / Đối tác
-Testimonials
-CTA đăng ký tư vấn
-Footer / Liên hệ
-
-làm cho tôi bằng ngôn ngữ html + js là chủ yếu
-tôi muốn giao diện đẹp là chủ yếu
-Nội dung b cứ lấy tự nhiên
-
-This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
