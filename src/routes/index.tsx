@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { useEffect, useState } from "react";
+import { useEffect, useState, type ReactNode } from "react";
 import hero from "@/assets/khoi-hero.jpg";
 import hillside from "@/assets/project-hillside.jpg";
 import lumen from "@/assets/project-lumen.jpg";
@@ -32,7 +32,7 @@ const projects = [
   { image: anVilla, title: "Biệt thự An", meta: "2022 — Nha Trang", ratio: "aspect-[4/3]", wrap: "md:col-span-7 md:mt-8" },
 ];
 
-function Reveal({ children, className = "" }: { children: React.ReactNode; className?: string }) {
+function Reveal({ children, className = "" }: { children: ReactNode; className?: string }) {
   return <div className={`reveal ${className}`}>{children}</div>;
 }
 
